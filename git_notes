@@ -1,0 +1,17 @@
+Seting up
+______________________________________________________
+
+echo "# Python_Procjects" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin git@github.com:drw209/Python_Procjects.git
+git push -u origin master
+___________________________________________
+updating 
+
+git add * or git add <file>
+git commit -m "Commit message"
+git push origin master
+
